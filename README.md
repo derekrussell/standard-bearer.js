@@ -1,2 +1,2 @@
-# standard-bearer.js
-Dynamic application of button labels based on passed URL parameters.
+# parse.url.js
+Simple URL Parser.
